@@ -9,5 +9,5 @@
 
 
 # 📝자기소개서 및 포트폴리오
-[김동현_포트폴리오.pdf](https://github.com/user-attachments/files/15573801/_.pdf)
+[김동현_포트폴리오.pdf](https://github.com/user-attachments/files/15573801/_.pdf)  
 ]포트폴리오 웹버전(개발중)](https://indextrown.github.io/portfolio/#)
