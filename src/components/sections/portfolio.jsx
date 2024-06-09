@@ -52,7 +52,7 @@ const Portfolio = () => {
                     <div className="col-xl-12 col-lg-12">
                         <Title>
                             <p>Works</p>
-                            <h2>Creative Portfolio</h2>
+                            <h2>My Portfolio</h2>
                         </Title>
                     </div>
                 </div>
