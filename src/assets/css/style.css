@@ -186,8 +186,9 @@ li {
     margin: 0;
 }
 
+/* photo */
 img {
-    max-width: 100%;
+    max-width: 80%;
     display: inline-block;
 }
 

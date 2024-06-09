@@ -19,10 +19,11 @@ const About = () => {
                                 </div>
                                 <div className="about-social text-center">
                                     <ul>
+                                        <li><a href="https://github.com/indextrown"><i><RiGithubLine size={20} /></i></a></li>
+                                        <li><a href=""><i><RiLinkedinFill size={20} /></i></a></li>
                                         <li><a href=""><i><RiFacebookCircleFill size={20} /></i></a></li>
                                         <li><a href=""><i><RiTwitterXLine size={20} /></i></a></li>
-                                        <li><a href=""><i><RiLinkedinFill size={20} /></i></a></li>
-                                        <li><a href=""><i><RiGithubLine size={20} /></i></a></li>
+                                        
                                     </ul>
                                 </div>
                             </div>
@@ -39,17 +40,18 @@ const About = () => {
                                     <h1>I'm <span>iOS</span> developer</h1>
                                 </h2>
                                 <div className="hero-btns">
-                                    <a href="#" className="theme-btn">Download CV <i><RiDownloadLine size={16} /></i></a>
+                                    <a href="https://github.com/user-attachments/files/15586459/_._.pdf" className="theme-btn">Download more <i><RiDownloadLine size={16} /></i></a>
                                 </div>
                             </SlideUp>
                             <SlideUp>
                                 <ul className="list-style-one two-column">
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Logo Design</li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Social Marketing</li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Branding Identity</li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Digital Marketing</li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Web Design</li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Product Design</li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Swift Programming</li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> UIKit</li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> SwiftUI</li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Core Data</li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Networking with URLSession</li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Push Notifications</li>
+
                                 </ul>
                             </SlideUp>
                         </div>

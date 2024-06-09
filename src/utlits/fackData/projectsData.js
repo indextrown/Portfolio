@@ -7,38 +7,44 @@ export const projectsData = [
     {
         id: 1,
         src: work_1,
-        category: "Design",
-        title: "Mobile Application Design",
+        category: "iOS",
+        title: "Covid Pass",
     },
     {
         id: 2,
         src: work_2,
-        category: "Game",
-        title: "Website Makeup Design",
+        category: "Python",
+        title: "크롤링 외주",
     },
     {
         id: 3,
         src: work_3,
-        category: "Branding",
-        title: "Brand Identity and Motion Design",
+        category: "Python",
+        title: "크롤링 외주",
     },
     {
         id: 4,
         src: work_4,
-        category: "Marketing",
-        title: "Mobile Application Design",
+        category: "Senior Project",
+        title: "생일카페 중개 플랫폼",
     },
-    {
-        id: 5,
-        src: work_3,
-        category: "Design",
-        title: "Brand Identity and Motion Design",
-    },
-    {
-        id: 6,
-        src: work_1,
-        category: "Marketing",
-        title: "Brand Identity and Motion Design"
-    },
+    // {
+    //     id: 4,
+    //     src: work_4,
+    //     category: "Marketing",
+    //     title: "Mobile Application Design",
+    // },
+    // {
+    //     id: 5,
+    //     src: work_3,
+    //     category: "Design",
+    //     title: "Brand Identity and Motion Design",
+    // },
+    // {
+    //     id: 6,
+    //     src: work_1,
+    //     category: "Marketing",
+    //     title: "Brand Identity and Motion Design"
+    // },
 
 ]
