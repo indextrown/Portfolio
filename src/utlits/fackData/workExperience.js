@@ -8,7 +8,7 @@ export const workExperience = [
     {
         id: 2,
         years: "2021 - 2023",
-        institute: "국방방 UTM 운용 및 전장망 리눅스 서버 운용",
+        institute: "국방망 UTM 운용 및 전장망 리눅스 서버 운용",
         position: "C4i운용병"
     },
     {
