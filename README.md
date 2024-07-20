@@ -16,7 +16,7 @@
   
 # 📝자기소개서 및 포트폴리오  
 #### 포트폴리오  (실증적 sw개발프로젝트 과제 제출용)
-- [김동현_포트폴리오.pdf](https://github.com/user-attachments/files/15586459/_._.pdf)
+<!-- - [김동현_포트폴리오.pdf](https://github.com/user-attachments/files/15586459/_._.pdf) -->
 
   
   
