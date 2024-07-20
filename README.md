@@ -21,7 +21,7 @@
   
   
 #### 개인적으로 만들고 있는 포트폴리오 웹버전입니다. 부족한 부분이 많으나 참고 부탁드립니다.
-- [포트폴리오 웹버전(개발중)](https://indextrown.github.io/portfolio/)
+- [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
 
 <!-- - [포트폴리오 웹버전(개발중)](https://indextrown.github.io/demo/) -->
 
